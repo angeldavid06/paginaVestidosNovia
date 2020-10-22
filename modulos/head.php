@@ -6,7 +6,7 @@
     
     <title>Vestidos</title>
 
-    <link rel="stylesheet" href="css/Estilos.css?2.3">
+    <link rel="stylesheet" href="css/Estilos.css?2.4">
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">

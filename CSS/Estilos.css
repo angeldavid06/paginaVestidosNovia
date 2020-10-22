@@ -920,6 +920,24 @@ footer .info_L p {
         z-index: 9999;
         width: 100%;
         top: 100%;
+        left: 0%;
+        transition: all .5s;
+        max-height: 100vh;
+        overflow-y: scroll;
+    }
+
+    .catalogo .mostrar-filtros {
+        top: 0%;
+        background-color: white;
+    }
+
+    .catalogo .filtros h2 {
+        text-align: center;
+        padding: 20px 0px 0px 0px;
+    }
+
+    .catalogo .filtros .categoria {
+        margin: auto;
     }
 
     .catalogo .contenedor {

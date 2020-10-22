@@ -18,5 +18,6 @@
     </footer>
     <script src="JS/jquery-3.4.1.js"></script>
     <script src="JS/menu.js?1.1"></script>
+    <script src="JS/filtros.js?1.2"></script>
 </body>
 </html>
